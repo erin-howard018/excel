@@ -40,8 +40,23 @@ This repository will give details of my self-Study and projects based in Excel.
 + LookUps; CHOOSE, VLOOKUP, MATCH, INDEX
 + Error Checking and Correction
 + Workbook Protection
++ Modelling Functions; SUMPRODUCT, Goal Seek, Scenario Manager, Solver
++ Macros
+
+- [**Excel Skills for Business: Advanced - Macquarie University**](https://www.coursera.org/learn/excel-advanced)
+  + Spreadsheet Design
+  + Structured Referencing
+  + Sorting via Functions
+  + Array Formulas
+  + Data Cleaning; Fill blanks with repeating values, TRIM, CLEAN, LEN, VALUE, CODE, SUBSTITUTE, CHAR,  
+  + Date Functions; EOMONTH, EDATE, DATE, MONTH, YEAR, DAY
+  + Financial Functions; FV, PV, PMT, NPV, IRR, Depreciation (SLN, SYD, DDB)
+  + INDIRECT and ADDRESS Functions
+  + OFFSET
+  + Building Dashboards
 
 
+  
 ## Books
 
 ## Youtube 
