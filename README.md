@@ -44,16 +44,16 @@ This repository will give details of my self-Study and projects based in Excel.
 + Macros
 
 - [**Excel Skills for Business: Advanced - Macquarie University**](https://www.coursera.org/learn/excel-advanced)
-  + Spreadsheet Design
-  + Structured Referencing
-  + Sorting via Functions
-  + Array Formulas
-  + Data Cleaning; Fill blanks with repeating values, TRIM, CLEAN, LEN, VALUE, CODE, SUBSTITUTE, CHAR,  
-  + Date Functions; EOMONTH, EDATE, DATE, MONTH, YEAR, DAY
-  + Financial Functions; FV, PV, PMT, NPV, IRR, Depreciation (SLN, SYD, DDB)
-  + INDIRECT and ADDRESS Functions
-  + OFFSET
-  + Building Dashboards
++ Spreadsheet Design
++ Structured Referencing
++ Sorting via Functions
++ Array Formulas
++ Data Cleaning; Fill blanks with repeating values, TRIM, CLEAN, LEN, VALUE, CODE, SUBSTITUTE, CHAR,  
++ Date Functions; EOMONTH, EDATE, DATE, MONTH, YEAR, DAY
++ Financial Functions; FV, PV, PMT, NPV, IRR, Depreciation (SLN, SYD, DDB)
++ INDIRECT and ADDRESS Functions
++ OFFSET
++ Building Dashboards
 
 
   
@@ -64,3 +64,4 @@ This repository will give details of my self-Study and projects based in Excel.
 ## Practice
 
 ## Projects
++ 
