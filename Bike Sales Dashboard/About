@@ -1,0 +1,23 @@
+This is a simple Excel project that takes a dataset on Bike Sales through stages of cleaning and then producees a basic interactive dashboard that allows us to learn more about our customers.
+I completed this projecy by following the youtube video 'Full Project in Excel | Excel Tutorials for Beginners' from AlexTheAnalyst which can be found [here](https://www.youtube.com/watch?v=opJgMj1IUrc&t=81s&ab_channel=AlexTheAnalyst). 
+
+**Downloads**
+
+The raw dataset can be downloaded here
+
+My working and interactive dashboard can be found here.
+
+**Steps**
+
+Cleaning
++ Remove duplicats
++ Clean/recode variables like marital status and gender for readability
++ Create new age bracket variable to compare age groups instead of individual ages
+
+Analysing
++ Create pivot tables
++ Create graphs
+
+Presenting
++ Compile into dashboard format
++ Add slicers connected to all graphs for interactive element
