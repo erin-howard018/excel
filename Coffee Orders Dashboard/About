@@ -1,1 +1,29 @@
-ddd
+This is a simple Excel project that takes a dataset on Coffee Orders through stages of cleaning and then producees a basic 
+interactive dashboard that allows us to learn more about our customers.
+
+I completed this projecy by following the youtube video 'The ONLY EXCEL PORTFOLIO PROJECT YOU NEED' 
+from MoChen which can be found at this link (www.youtube.com/watch?v=m13o5aqeCbM&t=12s&ab_channel=MoChen). 
+
+**Downloads**
+
+The raw dataset can be downloaded from the file named coffeeOrdersData.xlsx in this Coffee Orders Dashboard folder. 
+
+My working and interactive dashboard can be found in the file named coffeeOrdersDashboard.xlsx in this Coffee Orders Dashboard folder. 
+
+**Steps**
+
+Cleaning
++ XLookup and Index+Match to collate all data into from customer and product tables into orders table (fill customer name, email, country,
+coffee type, size, loyalty card)
++ Calculate sales column by multiplying unit price and quantity per order
++ Make new Coffee Type name and Roast type name columns using nested IF statments
++ Reformat date column
++ Check for duplicates
+
+Analysing
++ Create pivot tables
++ Create graphs
++ Add slicers and timeline
+
+Presenting
++ Compile into dashboard format
