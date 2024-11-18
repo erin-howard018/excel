@@ -64,5 +64,5 @@ This repository will give details of my self-Study and projects based in Excel.
 ## Practice
 
 ## Projects
-+ [Bike Sales Dashboard - guided project](Bike Sales Dashboard)
++ [Bike Sales Dashboard - guided project](Bike Sales Dashboard/about)
 + [Coffee Orders Dashboard - guided project]
