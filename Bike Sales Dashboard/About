@@ -13,7 +13,7 @@ My working and interactive dashboard can be found in the file named Bike Sales D
 **Steps**
 
 Cleaning
-+ Remove duplicats
++ Remove duplicates
 + Clean/recode variables like marital status and gender for readability
 + Create new age bracket variable to compare age groups instead of individual ages
 
