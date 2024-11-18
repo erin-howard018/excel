@@ -60,9 +60,10 @@ This repository will give details of my self-Study and projects based in Excel.
 ## Books
 
 ## Youtube 
+- 
 
 ## Practice
 
 ## Projects[
 + [Bike Sales Dashboard - guided project](https://github.com/erin-howard018/excel/tree/6a97702841900d634fd2028bb0d922523e4ae271/Bike%20Sales%20Dashboard)
-+ [Coffee Orders Dashboard - guided project]
++ [Coffee Orders Dashboard - guided project](https://github.com/erin-howard018/excel/tree/6a97702841900d634fd2028bb0d922523e4ae271/Coffee%20Orders%20Dashboard)
